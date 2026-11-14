@@ -207,4 +207,4 @@ This repository serves as the official landing page for Napster. The software is
 **Get the most recent version of Napster today!**
 
 ---
-**Last updated:** 2026-11-13 18:24:40 UTC
+**Last updated:** 2026-11-14 00:12:36 UTC
